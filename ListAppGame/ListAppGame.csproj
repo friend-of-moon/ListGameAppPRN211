@@ -8,4 +8,11 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="BaoCodeTrongdayNha\" />
+    <Folder Include="ChiTueCodeOdaya\" />
+    <Folder Include="ThanhCodeTrongDayNha\" />
+    <Folder Include="SnakeGame\" />
+  </ItemGroup>
+
 </Project>
