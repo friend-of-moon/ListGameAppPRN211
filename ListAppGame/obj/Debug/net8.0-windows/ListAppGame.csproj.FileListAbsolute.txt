@@ -18,3 +18,4 @@ E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.pdb
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.genruntimeconfig.cache
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\ref\ListAppGame.dll
+E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.sourcelink.json
