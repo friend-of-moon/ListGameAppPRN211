@@ -1,0 +1,44 @@
+﻿<Window x:Class="ListAppGame.SnakeGame.PlaySnakeGameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Snake Game" Height="546" Width="1081" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!-- Chia layout thành 2 cột -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <!-- Cột chơi game -->
+            <ColumnDefinition Width="1*"/>
+            <!-- Cột điều khiển -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Canvas để chơi game -->
+        <Canvas Name="GameCanvas" Background="Black" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,349,0"/>
+
+        <!-- Panel chứa điểm số và nút điều khiển -->
+        <StackPanel Grid.Column="1" Style="{StaticResource ControlPanelStyle}" Height="470">
+            <TextBlock Text="SCORE" FontSize="20" FontWeight="Bold"
+               Foreground="Black" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+            <TextBlock Name="ScoreTextBlock" Text="0" FontSize="28"
+               Foreground="Red" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            
+            <!-- Nút Play  -->
+            <Button Name="PlayButton" Content="Play" Style="{StaticResource PlayButtonStyle}" Click="StartGame"/>
+
+            <!-- Nút Stop  -->
+            <Button Name="StopButton" Content="Stop" Style="{StaticResource StopButtonStyle}" Click="StopGame" />
+
+            <!-- Nút Play Again -->
+            <Button Name="PlayAgainButton" Content="Play Again" Style="{StaticResource PlayButtonStyle}" Click="RestartGame" />
+
+            <!-- Nút Quit  quay lại trang home -->
+            <Button Content="Quit" Style="{StaticResource QuitButtonStyle}" Click="QuitGame"/>
+
+            <!-- Nút Exit thoát game -->
+            <Button Content="Exit" Style="{StaticResource QuitButtonStyle}" Click="Button_Click" />
+           
+        </StackPanel>
+
+
+    </Grid>
+</Window>

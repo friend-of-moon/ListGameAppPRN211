@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ListAppGame.SnakeGame;
 
 namespace ListAppGame
 {
@@ -23,7 +24,14 @@ namespace ListAppGame
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            Application.Current.Shutdown();
+        }
+
+        private void OpenSnakeGame(object sender, RoutedEventArgs e)
+        {
+            PlaySnakeGameWindow snakeGame = new PlaySnakeGameWindow();
+            snakeGame.Show();
+            this.Hide();
         }
     }
 }
