@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ListAppGame.Caro;
 using ListAppGame.SnakeGame;
 
 namespace ListAppGame
@@ -31,6 +32,13 @@ namespace ListAppGame
         {
             PlaySnakeGameWindow snakeGame = new PlaySnakeGameWindow();
             snakeGame.Show();
+            this.Hide();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            CaroGame caroGame = new CaroGame();
+            caroGame.Show();
             this.Hide();
         }
     }

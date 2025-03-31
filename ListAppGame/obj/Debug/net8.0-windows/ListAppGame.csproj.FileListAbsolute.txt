@@ -22,3 +22,29 @@ E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\SnakeGame\PlaySnakeGameWindow.g.cs
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\SnakeGame\PlaySnakeGameWindow.baml
 E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\App.baml
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\bin\Debug\net8.0-windows\ListAppGame.exe
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\bin\Debug\net8.0-windows\ListAppGame.deps.json
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\bin\Debug\net8.0-windows\ListAppGame.runtimeconfig.json
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\bin\Debug\net8.0-windows\ListAppGame.dll
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\bin\Debug\net8.0-windows\ListAppGame.pdb
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\SnakeGame\PlaySnakeGameWindow.baml
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\App.baml
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\Caro\CaroGame.g.cs
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\SnakeGame\PlaySnakeGameWindow.g.cs
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\App.g.cs
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame_MarkupCompile.cache
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame_MarkupCompile.lref
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\Caro\CaroGame.baml
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\MainWindow.baml
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.g.resources
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.AssemblyInfoInputs.cache
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.AssemblyInfo.cs
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.csproj.CoreCompileInputs.cache
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.sourcelink.json
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.dll
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\refint\ListAppGame.dll
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.pdb
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.genruntimeconfig.cache
+D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ref\ListAppGame.dll
