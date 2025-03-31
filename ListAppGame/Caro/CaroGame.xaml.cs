@@ -121,6 +121,15 @@ namespace ListAppGame.Caro
             }
             currentPlayer = "X";
         }
+
+        private void QuitGame(object sender, RoutedEventArgs e)
+        {
+            
+            this.Close();
+
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+        }
     }
 }
 

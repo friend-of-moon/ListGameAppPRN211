@@ -30,6 +30,7 @@
         </Grid>
 
         <Button x:Name="ResetButton" FontWeight="Bold" FontSize="20" Content="Reset" Height="50"
-            Click="ResetGame"  Margin="218,5,162,5"/>
+            Click="ResetGame"  Margin="188,5,192,5"/>
+        <Button Content="Quit" Style="{StaticResource QuitButtonStyle}" Click="QuitGame" Margin="305,10,25,10"/>
     </Grid>
 </Window>
