@@ -62,7 +62,7 @@ namespace ListAppGame.Caro
                 aiBtn.Content = "O";
                 if (CheckWin())
                 {
-                    MessageBox.Show("O wins!");
+                    MessageBox.Show($"{currentPlayer} wins!");
                     ResetGame(null, null);
                     return;
                 }
@@ -86,7 +86,7 @@ namespace ListAppGame.Caro
             }
         }
 
-        public bool CheckWin()
+        public bool CheckWin() //kiểm tra 3 ô hàng ngang và dọc thì thắng, 2 đường chéo
         {
             for (int i = 0; i < 3; i++)
             {
