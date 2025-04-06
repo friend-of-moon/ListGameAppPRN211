@@ -48,3 +48,5 @@ D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\refint\ListAppGa
 D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.pdb
 D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ListAppGame.genruntimeconfig.cache
 D:\PRN HoangNT\Thuyettrinh\ListAppGame\obj\Debug\net8.0-windows\ref\ListAppGame.dll
+E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\Caro\CaroGame.g.cs
+E:\ki-5\PRN202-HoangNT\GameApp\ListAppGame\ListAppGame\obj\Debug\net8.0-windows\Caro\CaroGame.baml

@@ -18,10 +18,7 @@
                     <Button Content="Snake Game" Width="200" Height="50" Background="#4CAF50" Foreground="White" FontSize="16" Margin="10" Cursor="Hand" Click="OpenSnakeGame"/>
                     <Button Content="Caro Game" Width="200" Height="50" Background="#2196F3" Foreground="White" FontSize="16" Margin="10" Cursor="Hand" Click="Button_Click_1"/>
                 </WrapPanel>
-                <WrapPanel HorizontalAlignment="Center" Margin="0,10">
-                    <Button Content="Ô của chị Tuệ" Width="200" Height="50" Background="#FF9800" Foreground="White" FontSize="16" Margin="10" Cursor="Hand"/>
-                    <Button Content="Ô của Thành Buồi" Width="200" Height="50" Background="#9C27B0" Foreground="White" FontSize="16" Margin="10" Cursor="Hand"/>
-                </WrapPanel>
+                
                 <WrapPanel HorizontalAlignment="Center" Margin="0,10">
                     <Button Content="Exit" Width="200" Height="50" Background="#F44336" Foreground="White" FontSize="16" Margin="10" Cursor="Hand" Click="Button_Click" />
                 </WrapPanel>
